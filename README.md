@@ -1,4 +1,5 @@
 # audit-wrapper
 
-TODO: Enter the cookbook description here.
+Wraps the Chef Supermarket Audit Cookbook
 
+# audit-wrapper
